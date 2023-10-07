@@ -1,9 +1,6 @@
 import heapq
 
 class AStar:
-    import heapq
-
-class AStar:
     def __init__(self, matrix):
         self.matrix = matrix
         self.rows, self.columns = len(matrix), len(matrix[0])
